@@ -49,4 +49,4 @@ Great way to visualise graph algorithms such as Maze Generator and Shortest Path
 ## License
 All code provided are under the [MIT License](http://opensource.org/licenses/MIT).
 
-Copyright © 2020 Philip Andreas
+Copyright © 2021 Philip Andreas
