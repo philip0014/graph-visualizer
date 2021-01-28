@@ -15,19 +15,26 @@ Great way to visualise graph algorithms such as Maze Generator and Shortest Path
 
 <p align="center">
 	<img src="assets/dfs.gif" width="500">
+	<br>
+	<i>Recursive Backtracking</i>
+</p>
+
+<p align="center">
 	<img src="assets/a*.gif" width="500">
+	<br>
+	<i>A* (Euclidean)</i>
 </p>
 
 ## Features
 #### Maze Generator
 <ul>
-	<li>Recursive Backtracking (DFS)</li>
+	<li>Recursive Backtracking</li>
 	<li>Kruskal</li>
 </ul>
 
 #### Shortest Path
 <ul>
-	<li>BFS</li>
+	<li>Breadth-first Search</li>
 	<li>Dijkstra</li>
 	<li>A* (Euclidean)</li>
 	<li>A* (Manhattan)</li>
