@@ -11,7 +11,7 @@
 </p>
 
 ## About Graph Visualizer
-Great way to visualise graph algorithms such as Maze Generator and Shortest Path in 2D grid.
+Great way to visualise graph algorithms such as Maze Generator and Shortest Path in 2D grid. Try to play with it <a href="https://philip0014.github.io/graph-visualizer/">here</a>.
 
 <p align="center">
 	<img src="assets/dfs.gif" width="500">
