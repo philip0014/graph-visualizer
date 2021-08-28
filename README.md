@@ -11,23 +11,30 @@
 </p>
 
 ## About Graph Visualizer
-Great way to visualise graph algorithms such as Maze Generator and Shortest Path in 2D grid.
+Great way to visualise graph algorithms such as Maze Generator and Shortest Path in 2D grid. Try to play with it <a href="https://philip0014.github.io/graph-visualizer/">here</a>.
 
 <p align="center">
 	<img src="assets/dfs.gif" width="500">
+	<br>
+	<i>Recursive Backtracking</i>
+</p>
+
+<p align="center">
 	<img src="assets/a*.gif" width="500">
+	<br>
+	<i>A* (Euclidean)</i>
 </p>
 
 ## Features
 #### Maze Generator
 <ul>
-	<li>Recursive Backtracking (DFS)</li>
+	<li>Recursive Backtracking</li>
 	<li>Kruskal</li>
 </ul>
 
 #### Shortest Path
 <ul>
-	<li>BFS</li>
+	<li>Breadth-first Search</li>
 	<li>Dijkstra</li>
 	<li>A* (Euclidean)</li>
 	<li>A* (Manhattan)</li>
@@ -42,4 +49,4 @@ Great way to visualise graph algorithms such as Maze Generator and Shortest Path
 ## License
 All code provided are under the [MIT License](http://opensource.org/licenses/MIT).
 
-Copyright © 2020 Philip Andreas
+Copyright © 2021 Philip Andreas
